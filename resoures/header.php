@@ -24,13 +24,13 @@
                     <div class="header__flex">
                         <div class="header__img">
                             <a href="#">
-                                <i class="fas fa-book-reader"></i>
-                                <span class="header--title">TRUYỆN TRANH - TNMT</span>                  
+                                <i class="fal fa-shopping-cart"></i>
+                                <span class="header--title">QUẢN LÝ SẢN PHẨM</span>                  
                             </a>
                         </div>
                         <div class="header__info">
                             <i class="far fa-user-circle"></i>
-                            <span>Huy Đạt DH8C6</span>
+                            <span>Mai Minh DH8C4</span>
                             <ul>
                                 <li class="header__info--text">Hồ Sơ</li>
                                 <li class="header__info--text"><a href="../index.php">Thoát</a></li>
@@ -39,22 +39,13 @@
                     </div>
                     <ul class="header-nav">
                         <li class="header-nav__item">
-                            <a href="../php/TN.php" class="header-nav__item--text">Truyện Ngắn</a>
+                            <a href="../php/QA.php" class="header-nav__item--text">Danh sách sản phẩm</a>
                         </li>
                         <li class="header-nav__item">
-                            <a href="../php/TC.php" class="header-nav__item--text">Truyện Cười</a>
-                        </li>
+                            <a href="../update/UpdateQA.php" class="header-nav__item--text">Cập nhập sản phẩm</a>
+                        </li>A
                         <li class="header-nav__item">
-                            <a href="../php/TM.php" class="header-nav__item--text">Truyện Ma</a>
-                        </li>
-                        <li class="header-nav__item">
-                            <a href="../php/TTT.php" class="header-nav__item--text">Truyện Tiểu Thuyết</a>
-                        </li>
-                        <li class="header-nav__item">
-                            <a href="../php/TG.php" class="header-nav__item--text">Tác Giả</a>
-                        </li>
-                        <li class="header-nav__item">
-                            <a href="../php/TH.php" class="header-nav__item--text">Tổng hợp</a>
+                            <a href="../php/QA2.php" class="header-nav__item--text">Tìm kiếm sản phẩm</a>
                         </li>
                     </ul>
                 </div>

@@ -49,7 +49,7 @@
                 $password2 = $row["password"];
             if ($user1 == $user && $password2 == $password1) {
                 if (!$loggedIn) {
-                    header("Location: ../php/home.php");
+                    header("Location: ../php/QA.php");
                     die();
             }
                 $b = 'a';
